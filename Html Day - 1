@@ -1,0 +1,130 @@
+<html>
+  <head>
+    <title>My Site</title>
+  </head>
+  <body bgcolor="teal" text="white">
+    <center>
+      <h1>Welcome to My Site</h1>
+    </center>
+
+    <hr />
+
+    <p>This is a Paragraph</p>
+
+    <p>This is a <b> Paragraph </b></p>
+    <p>This is a <i> Paragraph </i></p>
+    <p>This is a <u> Paragraph </u></p>
+    <p>This is a <q> Paragraph </q></p>
+    <p>This is a <strike> Paragraph </strike></p>
+    <p>This is a <big> Paragraph </big></p>
+    <p>This is a <small> Paragraph </small></p>
+    <p>This is a <strong> Paragraph </strong></p>
+    <p>This is a <em> Paragraph </em></p>
+
+    <p>This is H<sub>2</sub>O</p>
+    <p>This is E = MC<sup>2</sup></p>
+
+    <hr />
+
+    <ol>
+      <li>
+        Phone
+        <ul>
+          <li>Samsung</li>
+          <li>Oppo</li>
+          <li>Vivo</li>
+          <li>Mi</li>
+        </ul>
+      </li>
+
+      <li>Laptop</li>
+    </ol>
+
+    <hr />
+
+    <table border="1">
+      <thead>
+        <tr>
+          <th colspan="2">My Report</th>
+        </tr>
+
+        <tr>
+          <th>Name</th>
+          <th>Class</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr>
+          <td>Naman Kumar Singh</td>
+          <td>10th</td>
+        </tr>
+
+        <tr>
+          <td>Aman Kumar Singh</td>
+          <td>10th</td>
+        </tr>
+
+        <tr>
+          <td>Hitesh Kumar Singh</td>
+          <td>10th</td>
+        </tr>
+
+        <tr>
+          <td>Om Kumar Singh</td>
+          <td>10th</td>
+        </tr>
+
+        <tr>
+          <td>Rajveer Kumar Singh</td>
+          <td>10th</td>
+        </tr>
+      </tbody>
+
+      <tfoot>
+        <tr>
+          <th colspan="2">Results</th>
+        </tr>
+      </tfoot>
+    </table>
+
+    <hr>
+
+
+    <img height="100" src="https://i.insider.com/5a271fbc7101ad7b9647b9d8?width=1200&format=jpeg" alt="Mountain">
+
+    <br>
+    <br>
+
+
+    <img height="200" src="./6360752-Osho-Quote-The-real-question-is-not-whether-life-exists-after.jpg" alt="">
+
+
+
+    <br>
+
+    <video poster="./6360752-Osho-Quote-The-real-question-is-not-whether-life-exists-after.jpg" muted controls height="600" src="./2024-03-26 20-43-30.mkv"></video>
+    
+    <br>
+    <br>
+    
+    <audio controls src="./2024-03-26 20-43-30.mkv"></audio>
+
+    <br>
+    <br>
+
+    <iframe width="900" height="600" src="./grokking-algorithms-illustrated-programmers-curious.pdf" frameborder="1"></iframe>
+
+    <hr>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/zmL3JGG7ywU?si=U3U-WmjXo7bA13ZR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+    <hr>
+
+    <a target="_blank" href="https://www.youtube.com">
+        Youtube
+    </a>
+
+  </body>
+</html>
