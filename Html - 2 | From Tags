@@ -1,0 +1,153 @@
+<html>
+  <head>
+    <title>My Site</title>
+  </head>
+  <body bgcolor="teal" text="white">
+    <center>
+      <h1>Welcome To My Website</h1>
+    </center>
+    <hr />
+
+
+
+        <fieldset>
+            <legend><h2><u><i>Enter Your Details</i></u></h2></legend>
+            <form>
+
+                <label>Enter Your Name</label>
+                <input  required type="text">
+                <br>
+                <br>
+    
+    
+                <label>Enter Your Email</label>
+                <input type="email">
+                <br>
+                <br>
+    
+    
+                <label>Enter Your Phone</label>
+                <input type="tel">
+                <br>
+                <br>
+    
+    
+                <label>Enter Your Password</label>
+                <input maxlength="30" placeholder="Type Your Password" minlength="6" type="password">
+                <br>
+                <br>
+    
+    
+                <label>Enter Your DOB</label>
+                <input type="date">
+                <br>
+                <br>
+    
+    
+                <label>Enter Your Free Slot</label>
+                <input type="time">
+                <br>
+                <br>
+    
+    
+                <label>Enter Your Fav Color</label>
+                <input type="color">
+                <br>
+                <br>
+    
+    
+                <label>Enter Your Pic</label>
+                <input type="file">
+                <br>
+                <br>
+    
+    
+                <label>Enter Your Birthday Month</label>
+                <input type="month">
+                <br>
+                <br>
+    
+    
+                <label>Enter Your Birthday with Time</label>
+                <input type="datetime-local">
+                <br>
+                <br>
+    
+                <p>Your Gender:</p>
+    
+                <input id = "M" name="Gender" type="radio">
+                <label for="M" >Male</label>
+    
+                <input id = "F" name="Gender" type="radio">
+                <label for="F" >Female</label>
+    
+                <input id = "O" name="Gender" type="radio">
+                <label for="O" >Other</label>
+    
+    
+                <br>
+                <br>
+    
+                <p>Check You Fav Drinks:</p>
+    
+                <input type="checkbox">
+                <label for="">Coffee</label>
+    
+                <input type="checkbox">
+                <label for="">Tea</label>
+    
+                <input type="checkbox">
+                <label for="">Juice</label>
+    
+    
+    
+                <br>
+                <br>
+                <button type="submit">Submit</button>
+                <button type="reset">Clear</button>
+    
+    
+    
+    
+    
+        </form>
+        </fieldset>
+
+
+
+        <textarea placeholder="Enter Your Comments" cols="50" rows="10"></textarea>
+
+    
+        <hr>
+        <select>
+            <option>Guitar</option>
+            <option>Piano</option>
+            <option>Tabla</option>
+            <option>Congo</option>
+            <option>Celo</option>
+            <option>Harmonica</option>
+        </select>
+
+
+        <hr>
+        <input type="range">
+        <br>
+
+        <input type="url">
+  
+
+        <br>
+
+        <input type="search">
+  
+
+        <br>
+
+        <input type="week">
+  
+
+
+
+
+  </body>
+</html>
