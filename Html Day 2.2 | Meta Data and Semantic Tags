@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta name="author" content="TPS" >
+        <meta name="keyword" content="HTML, CSS, JS, REACT">
+        <meta name="description" content="This is a Test Website Just For Learning" >
+        <title>My Site</title>
+        <link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/800px-Instagram_icon.png">
+    </head>
+
+    <body bgcolor="black" text="white">
+        
+
+        
+        <header></header>
+        <nav>
+
+        </nav>
+
+        <main>
+            <aside>
+
+            </aside>
+            <figure></figure>
+            <article>
+
+            </article>
+        </main>
+
+        <footer></footer>
+
+    </body>
+</html>
