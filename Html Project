@@ -1,0 +1,195 @@
+<html>
+  <head>
+    <title>My Site</title>
+    <link
+      rel="icon"
+      href="https://img.freepik.com/free-vector/bird-colorful-logo-gradient-vector_343694-1365.jpg?size=338&ext=jpg&ga=GA1.1.1224184972.1713438000&semt=sph"
+    />
+  </head>
+  <body bgcolor="black" text="white">
+    <center>
+      <h1>Welcome To Our WebSite</h1>
+
+      <hr />
+
+      <marquee>
+        <h3>The World is Going To Change By The Filed Called Robotics</h3>
+      </marquee>
+
+      <img
+        height="600"
+        src="https://s3-ap-south-1.amazonaws.com/ricedigitals3bucket/AUPortalContent/2023/07/25174434/efc290acf4d2f1573b4a87aa3999508b.png"
+      />
+      <hr />
+    </center>
+
+    <h3>What Is Robotics?</h3>
+    <h3>
+      Robotics is a field of study that focuses on the study of the interactions
+      between human and robots.
+    </h3>
+    <details>
+      In simple terms, robotics combines science, engineering, and technology to
+      design, construct, operate, and use machines programmed to replicate,
+      substitute, or assist humans in completing tasks of varying complexity.
+      These machines are known as robots. Robots have a long history, dating
+      back to ancient Greece; notably, the first digital-operated and
+      programmable robot debuted in the mid-twentieth century. Robotics quickly
+      took over key industries like automotive manufacturing, with early spot
+      welding robot prototypes used in General Motors facilities in 1961.
+      Throughout the years, robotics has developed increasingly sophisticated
+      machines to benefit a wide range of industries. Today, robots are in use
+      everywhere around the globe, from college clubs to Fortune 100s. Companies
+      and individuals alike are harnessing the power of robotics more than ever
+      before, with the value of the Global Robotics Market rising to over 27
+      billion USD in 2020. What are some of the common types of robots? The most
+      common types of robots include: Autonomous Mobile Robots (AMRs) Using
+      sophisticated sensors, artificial intelligence, and machine learning,
+      autonomous mobile robots (AMRs) can support many tasks, including
+      delivering items, carrying out safety and security checks, inventory
+      automation, rescue missions, crop harvesting, and even space exploration.
+      Automated Guided Vehicles (AGVs) As a form of autonomous mobile robots,
+      automated guided vehicles (AGVs) are movable robots capable of navigating
+      mapped routes via wires on a floor, radio waves, cameras, magnets, or
+      lasers. These robots have several applications, including transporting
+      heavy materials in factories and warehouses. Articulated Robots One of the
+      main features of an articulated robot is rotary joints that can range from
+      simple two-jointed structures to complex systems of multiple interacting
+      joints and materials. The articulated robot is a typical type of
+      industrial robot and often resembles a human arm. Humanoids A humanoid
+      robot resembles a generic human body form. The specialized design is
+      typically used for mimicking human motions and interactions. A common use
+      case of humanoid robots is automating tasks to increase efficiency and
+      cost-savings.
+    </details>
+
+    <hr>
+
+    <table border="1">
+        <tr>
+            <th colspan="2">Types Of Robots</th>
+        </tr>
+        <tr>
+            <th>Type Name</th>
+            <th>Use</th>
+        </tr>
+
+
+        <tr>
+            <td>Humanoids</td>
+            <td>Man Power</td>
+        </tr>
+
+
+        <tr>
+            <td>Cobots</td>
+            <td>collaborative robot</td>
+        </tr>
+
+        <tr>
+            <td>Manufacturing</td>
+            <td>monotonous or dangerous tasks, and enable human workers <br> to focus on more complex tasks.</td>
+        </tr>
+
+
+    </table>
+    <hr>
+    <center>
+        <h3>More Videos</h3>
+        
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/29ECwExc-_M?si=onUQzXT9fkUQp_fm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/D2vj0WcvH5c?si=ISD66fCYWLUDQA7v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/wGWVKkYEHBE?si=sSXZpjI-L_oKZ-cl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        
+    </center>
+
+
+    <hr>
+
+    <fieldset>
+        <legend>Enter Your Details</legend>
+
+
+       <center>
+        <form>
+            <input type="text" placeholder="Enter Your Name">
+            <br>
+            <br>
+
+            <input type="text" placeholder="Enter Your Email">
+            <br>
+            <br>
+
+            <input type="text" placeholder="Enter Your Phone">
+
+            <br>
+            <br>
+
+            <p>Fill Your Gender:</p>
+            
+            <input id = "M" type="radio" name="gender">
+            <label for="M">Male</label>
+
+            <input id = "F" type="radio" name="gender">
+            <label for="F">Female</label>
+
+            <input id = "O" type="radio" name="gender">
+            <label for="O">Other</label>
+
+            <br>
+            <br>
+
+            <p>Are You In Robotics:</p>
+
+            <input type="checkbox" >
+            <label>Robitic Student</label>
+
+            <input type="checkbox" >
+            <label>Allready Working</label>
+
+
+            <br>
+            <br>
+            <button>Submit</button>
+
+        </form>
+       </center>
+
+
+    </fieldset>
+
+
+    <hr>
+
+    <h3>You Are Intrestend In?</h3>
+
+    <select>
+        <option>Manufacturing</option>
+        <option>Cobots</option>
+        <option>Humanoids</option>
+    </select>
+
+    <br>
+    <br>
+    <h3>Why Do You Want To Come In This Induestry</h3>
+    <textarea placeholder="Write Your Thoughts" cols="50" rows="10"></textarea>
+
+
+    <footer>
+        <center>
+            <h2>Thanks For Visiting</h2>
+            <a target="_blank" 
+            href="https://formant.io/robotics/#:~:text=In%20simple%20terms%2C%20robotics%20combines,machines%20are%20known%20as%20robots.">
+                Fromant
+            </a>
+        </center>
+    </footer>
+
+
+
+  </body>
+</html>
